@@ -27,3 +27,7 @@ const page2:Page = {
   status: 'close',
 }
 
+
+
+
+export{}
